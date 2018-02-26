@@ -3,8 +3,9 @@
     {
       "fullname": "Rett C",
       "id": 1,
-      "checkedIn": false,
-      "baggage": "none"
+      "checkedIn": true,
+      "baggage": "none",
+      "checkInDate": 1519684227047
     },
     {
       "id": 2,
